@@ -1,3 +1,3 @@
-# Statistical-Learning-STAT-542
+# Statistical-Learning
 
 Course website : https://teazrq.github.io/stat542/lecture.html
